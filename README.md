@@ -3,7 +3,7 @@
 meu nome é Angela 
 
 - estou estudando na alura
-- setou me desenvolvendo na limguagem javaScript
+- setou me desenvolvendo na linguagem javaScript
 - utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
  ## você pode entrar em contato comigo por 📧
