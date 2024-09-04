@@ -2,7 +2,7 @@
 
 meu nome é Angela 
 
-- estou studing na alura
+- estou estudando na alura
 - setou me desenvolvendo na limguagem javaScript
 - utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
